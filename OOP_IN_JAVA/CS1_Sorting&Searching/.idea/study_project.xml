@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="11" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <RemoteCourse>
+          <option name="additionalMaterialsUpdateDate" value="0" />
+          <option name="authors">
+            <list>
+              <StepikUserInfo>
+                <option name="firstName" value="Elise" />
+                <option name="guest" value="false" />
+                <option name="id" value="42576984" />
+                <option name="lastName" value="Harrison" />
+              </StepikUserInfo>
+            </list>
+          </option>
+          <option name="compatible" value="true" />
+          <option name="courseMode" value="Study" />
+          <option name="courseType" value="PyCharm" />
+          <option name="customPresentableName" />
+          <option name="description" value="This is a unit of CS1 that covers sorting and searching." />
+          <option name="fromZip" value="false" />
+          <option name="id" value="6433" />
+          <option name="index" value="-1" />
+          <option name="instructors">
+            <list>
+              <option value="42576984" />
+            </list>
+          </option>
+          <option name="language" value="JAVA" />
+          <option name="languageCode" value="en" />
+          <option name="loadSolutions" value="true" />
+          <option name="name" value="CS1_Sorting&amp;Searching" />
+          <option name="public" value="true" />
+          <option name="sectionIds">
+            <list>
+              <option value="12681" />
+            </list>
+          </option>
+          <option name="stepikChangeStatus" value="Up to date" />
+          <option name="type" value="pycharm2 JAVA" />
+          <option name="updateDate" value="1519757321000" />
+          <option name="items">
+            <list>
+              <Lesson>
+                <option name="customPresentableName" />
+                <option name="id" value="75419" />
+                <option name="index" value="1" />
+                <option name="name" value="Sorting" />
+                <option name="stepikChangeStatus" value="Up to date" />
+                <option name="updateDate" value="1519757321000" />
+                <option name="taskList">
+                  <list>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Directions&lt;/b&gt; &lt;br / &gt;&#10;Implement the &lt;u&gt;Bubble Sort&lt;/u&gt; algorithm we learned about in class using the template given.&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="1" />
+                      <option name="name" value="Bubble Sort" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="287055" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="30" />
+                                          <option name="offset" value="737" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="30" />
+                                      <option name="offset" value="737" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="//To Do: Implement Bubble Sort" />
+                                      <option name="possibleAnswer" value="        for(int i = 1; i &lt; data.size(); i++)&#10;            for(int j = 0; j &lt; data.size()-i; j++)&#10;                if(data.get(j) &gt; data.get(j+1))&#10;                    swapElements(data, j, j+1);" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="1" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="81" />
+                                          <option name="offset" value="1074" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="81" />
+                                      <option name="offset" value="1074" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="//implement code to swap the elements at index1 and index 2 in the ArrayList data" />
+                                      <option name="possibleAnswer" value="double temp = data.get(index1);&#10;        data.set(index1, data.get(index2));&#10;        data.set(index2, temp);" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/Task.java" />
+                                <option name="text" value="import java.lang.reflect.Array;&#10;import java.util.ArrayList;&#10;&#10;public class Task {&#10;&#10;    static ArrayList data = new ArrayList();&#10;&#10;    public static void main(String[] args)&#10;    {&#10;        createData();&#10;&#10;        bubbleSort(data);&#10;&#10;        printData();&#10;    }&#10;&#10;&#10;    public static void createData()&#10;    {&#10;        for(int i = 0; i &lt; 10; i++)    //add 10 random doubles&#10;        { data.add(Math.floor(Math.random()*100)/1.0); }&#10;    }&#10;&#10;    public static void printData()&#10;    {&#10;        for(int i = 0; i &lt; data.size(); i++)   //print out elements&#10;                { System.out.print(data.get(i).toString().substring(0,data.get(i).toString().indexOf(&quot;.&quot;)) + &quot; &quot;); }&#10;&#10;&#10;    }&#10;&#10;    public static ArrayList&lt;Double&gt; bubbleSort(ArrayList&lt;Double&gt; data)&#10;    {&#10;//To Do: Implement Bubble Sort&#10;&#10;        return data;&#10;    }&#10;&#10;&#10;    //Helper method that swaps two elements in an array&#10;    //@param data: ArrayList where elements are&#10;    //@param index1 and index2: indeces of the two elements to be swapped&#10;    public static void swapElements(ArrayList&lt;Double&gt; data, int index1, int index2)&#10;    {&#10;        //implement code to swap the elements at index1 and index 2 in the ArrayList data&#10;    }&#10;&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Test.java" value="import org.junit.Assert;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Test {&#10;&#10;    @org.junit.Test public void testSorting() {&#10;&#10;        //make testing data&#10;        ArrayList&lt;Double&gt; testData = new ArrayList&lt;&gt;();&#10;        for(int i = 0; i &lt; 100; i++)&#10;        { testData.add(Math.random()); }&#10;&#10;        //make sure resulting array is sorted&#10;        ArrayList&lt;Double&gt; sorted = Task.bubbleSort((ArrayList&lt;Double&gt;) testData.clone());&#10;&#10;        for(int i = 1; i &lt; sorted.size(); i++)&#10;        {&#10;            if(sorted.get(i-1) &gt; sorted.get(i))&#10;            {   Assert.fail(&quot;Bubble Sort Failed&quot;);}&#10;        }&#10;&#10;&#10;    }&#10;&#10;}&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1519757273000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Directions&lt;/b&gt; &lt;br / &gt;&#10;Implement the &lt;u&gt;Insertion Sort&lt;/u&gt; algorithm we learned about in class using the template given.&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="2" />
+                      <option name="name" value="Insertion Sort" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="287056" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="33" />
+                                          <option name="offset" value="736" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="33" />
+                                      <option name="offset" value="736" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="//To Do: Implement Insertion Sort" />
+                                      <option name="possibleAnswer" value="        int i, j;&#10;        for(i = 1; i &lt; data.size(); i++) {&#10;            j=i;&#10;            while(j &gt;0 &amp;&amp; data.get(j-1) &gt; data.get(j)) {&#10;                swapElements(data, j-1, j);&#10;                j--;&#10;            }&#10;        }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="1" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="81" />
+                                          <option name="offset" value="1067" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="81" />
+                                      <option name="offset" value="1067" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="//implement code to swap the elements at index1 and index 2 in the ArrayList data" />
+                                      <option name="possibleAnswer" value="        double temp = data.get(index1);&#10;        data.set(index1, data.get(index2));&#10;        data.set(index2, temp);" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/Task.java" />
+                                <option name="text" value="import java.lang.reflect.Array;&#10;import java.util.ArrayList;&#10;&#10;public class Task {&#10;&#10;    static ArrayList data = new ArrayList();&#10;&#10;    public static void main(String[] args)&#10;    {&#10;        createData();&#10;&#10;        insertionSort(data);&#10;&#10;        printData();&#10;    }&#10;&#10;&#10;    public static void createData()&#10;    {&#10;        for(int i = 0; i &lt; 10; i++)    //add 10 random doubles&#10;        { data.add(Math.floor(Math.random()*100)/1.0); }&#10;    }&#10;&#10;    public static void printData()&#10;    {&#10;        for(int i = 0; i &lt; data.size(); i++)   //print out elements&#10;        { System.out.print(data.get(i).toString().substring(0,data.get(i).toString().indexOf(&quot;.&quot;)) + &quot; &quot;); }&#10;&#10;&#10;    }&#10;&#10;&#10;    public static ArrayList&lt;Double&gt; insertionSort(ArrayList&lt;Double&gt; data)&#10;    {&#10;//To Do: Implement Insertion Sort&#10;&#10;        return data;&#10;    }&#10;&#10;    //Helper method that swaps two elements in an array&#10;    //@param data: ArrayList where elements are&#10;    //@param index1 and index2: indeces of the two elements to be swapped&#10;    public static void swapElements(ArrayList&lt;Double&gt; data, int index1, int index2)&#10;    {&#10;//implement code to swap the elements at index1 and index 2 in the ArrayList data&#10;    }&#10;&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Test.java" value="import org.junit.Assert;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Test {&#10;&#10;    @org.junit.Test public void testSorting() {&#10;&#10;        //make testing data&#10;        ArrayList&lt;Double&gt; testData = new ArrayList&lt;&gt;();&#10;        for(int i = 0; i &lt; 100; i++)&#10;        { testData.add(Math.random()); }&#10;&#10;        //make sure resulting array is sorted&#10;        ArrayList&lt;Double&gt; sorted = Task.insertionSort((ArrayList&lt;Double&gt;) testData.clone());&#10;&#10;        for(int i = 1; i &lt; sorted.size(); i++)&#10;        {&#10;            if(sorted.get(i-1) &gt; sorted.get(i))&#10;            {   Assert.fail(&quot;Insertion Sort Failed&quot;);}&#10;        }&#10;&#10;&#10;    }&#10;&#10;}&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1519757320000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Directions&lt;/b&gt; &lt;br / &gt;&#10;Implement the &lt;u&gt;Selection Sort&lt;/u&gt; algorithm we learned about in class using the template given.&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="3" />
+                      <option name="name" value="Selection Sort" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="287057" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="33" />
+                                          <option name="offset" value="741" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="33" />
+                                      <option name="offset" value="741" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="//To Do: Implement Selection Sort" />
+                                      <option name="possibleAnswer" value="int indexOfBiggest = 0;&#10;&#10;        for(int i = data.size()-1; i &gt; 0; i--) {    //tracks start of sorted array&#10;            for (int j = 0; j &lt;= i; j++) {           //looks for biggest in unsorted part of array&#10;                if(data.get(indexOfBiggest) &lt; data.get(j))&#10;                    indexOfBiggest = j;&#10;            }&#10;            swapElements(data, indexOfBiggest, i);&#10;            indexOfBiggest = 0;&#10;        }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="1" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="81" />
+                                          <option name="offset" value="1073" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="81" />
+                                      <option name="offset" value="1073" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="//implement code to swap the elements at index1 and index 2 in the ArrayList data" />
+                                      <option name="possibleAnswer" value="       double temp = data.get(index1);&#10;        data.set(index1, data.get(index2));&#10;        data.set(index2, temp);" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/Task.java" />
+                                <option name="text" value="import java.lang.reflect.Array;&#10;import java.util.ArrayList;&#10;&#10;public class Task {&#10;&#10;    static ArrayList data = new ArrayList();&#10;&#10;    public static void main(String[] args)&#10;    {&#10;        createData();&#10;&#10;        selectionSort(data);&#10;&#10;        printData();&#10;    }&#10;&#10;&#10;    public static void createData()&#10;    {&#10;        for(int i = 0; i &lt; 10; i++)    //add 10 random doubles&#10;        { data.add(Math.floor(Math.random()*100)/1.0); }&#10;    }&#10;&#10;    public static void printData()&#10;    {&#10;        for(int i = 0; i &lt; data.size(); i++)   //print out elements&#10;        { System.out.print(data.get(i).toString().substring(0,data.get(i).toString().indexOf(&quot;.&quot;)) + &quot; &quot;); }&#10;    }&#10;&#10;    public static ArrayList&lt;Double&gt; selectionSort(ArrayList&lt;Double&gt; data)&#10;    {&#10;        //To Do: Implement Selection Sort&#10;        return data;&#10;    }&#10;&#10;&#10;    //Helper method that swaps two elements in an array&#10;    //@param data: ArrayList where elements are&#10;    //@param index1 and index2: indeces of the two elements to be swapped&#10;    public static void swapElements(ArrayList&lt;Double&gt; data, int index1, int index2)&#10;    {&#10; //implement code to swap the elements at index1 and index 2 in the ArrayList data&#10;    }&#10;&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Test.java" value="import org.junit.Assert;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Test {&#10;&#10;    @org.junit.Test public void testSorting() {&#10;&#10;        //make testing data&#10;        ArrayList&lt;Double&gt; testData = new ArrayList&lt;&gt;();&#10;        for(int i = 0; i &lt; 100; i++)&#10;        { testData.add(Math.random()); }&#10;&#10;        //make sure resulting array is sorted&#10;        ArrayList&lt;Double&gt; sorted = Task.selectionSort((ArrayList&lt;Double&gt;) testData.clone());&#10;&#10;        for(int i = 1; i &lt; sorted.size(); i++)&#10;        {&#10;            if(sorted.get(i-1) &gt; sorted.get(i))&#10;            {   Assert.fail(&quot;Selection Sort Failed&quot;);}&#10;        }&#10;&#10;&#10;    }&#10;&#10;}&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1519757320000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Directions&lt;/b&gt; &lt;br / &gt;&#10;Implement the &lt;u&gt;Merge Sort&lt;/u&gt; algorithm we learned about in class using the template given.&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="4" />
+                      <option name="name" value="Merge Sort" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="287058" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="29" />
+                                          <option name="offset" value="900" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="29" />
+                                      <option name="offset" value="900" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="//To Do: Implement Merge Sort" />
+                                      <option name="possibleAnswer" value="//break array into individual elements&#10;        int mid= start + (end-start)/2;&#10;        if(start&lt;end)&#10;        {&#10;            mergeSortHelper(data, start, mid);&#10;            mergeSortHelper(data, mid+1, end);&#10;        }&#10;        else&#10;        {   return;  }&#10;&#10;        //merge together&#10;&#10;        // Copy both parts into the helper array&#10;        ArrayList helper = (ArrayList) data.clone();&#10;&#10;        int start1 = start;&#10;        int start2 = mid+1;&#10;        // Copy the smallest values from either the left or the right side back&#10;        // to the original array&#10;        while (start &lt;= end) {&#10;            if ((Double) helper.get(start1) &lt;= (Double) helper.get(start2)) {&#10;                data.set(start, (Double) helper.get(start1));&#10;                if(start1 &lt; mid)&#10;                    start1++;&#10;                else&#10;                    helper.set(start1, 100.0);&#10;            } else {&#10;                data.set(start, (Double) helper.get(start2));&#10;                if( start2 &lt; end)&#10;                    start2++;&#10;                else&#10;                    helper.set(start2, 100.0);&#10;            }&#10;            start++;&#10;        }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/Task.java" />
+                                <option name="text" value="import java.lang.reflect.Array;&#10;import java.util.ArrayList;&#10;&#10;public class Task {&#10;&#10;    static ArrayList data = new ArrayList();&#10;&#10;    public static void main(String[] args)&#10;    {&#10;        createData();&#10;&#10;        mergeSort(data);&#10;&#10;        printData();&#10;    }&#10;&#10;&#10;    public static void createData()&#10;    {&#10;        for(int i = 0; i &lt; 10; i++)    //add 10 random doubles&#10;        { data.add(Math.floor(Math.random()*100)/1.0); }&#10;    }&#10;&#10;    public static void printData()&#10;    {&#10;        for(int i = 0; i &lt; data.size(); i++)   //print out elements&#10;        { System.out.print(data.get(i).toString().substring(0,data.get(i).toString().indexOf(&quot;.&quot;)) + &quot; &quot;); }&#10;    }&#10;&#10;    public static ArrayList&lt;Double&gt; mergeSort(ArrayList&lt;Double&gt; data)&#10;    {&#10;        mergeSortHelper(data, 0, data.size()-1);&#10;        return data;&#10;    }&#10;&#10;&#10;    public static void mergeSortHelper(ArrayList&lt;Double&gt; data, int start, int end)&#10;    {&#10;        //To Do: Implement Merge Sort&#10;&#10;    }&#10;&#10;&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Test.java" value="import org.junit.Assert;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Test {&#10;&#10;    @org.junit.Test public void testSorting() {&#10;&#10;        //make testing data&#10;        ArrayList&lt;Double&gt; testData = new ArrayList&lt;&gt;();&#10;        for(int i = 0; i &lt; 100; i++)&#10;        { testData.add(Math.random()); }&#10;&#10;        //make sure resulting array is sorted&#10;        ArrayList&lt;Double&gt; sorted = Task.mergeSort((ArrayList&lt;Double&gt;) testData.clone());&#10;&#10;        for(int i = 1; i &lt; sorted.size(); i++)&#10;        {&#10;            if(sorted.get(i-1) &gt; sorted.get(i))&#10;            {   Assert.fail(&quot;Merge Sort Failed&quot;);}&#10;        }&#10;&#10;&#10;    }&#10;&#10;}&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1519757320000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;b&gt;Directions&lt;/b&gt; &lt;br / &gt;&#10;Implement the &lt;u&gt;Quick Sort&lt;/u&gt; algorithm we learned about in class using the template given.&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" />
+                          <option name="type" value="STEPIK" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="index" value="5" />
+                      <option name="name" value="Quick Sort" />
+                      <option name="status" value="Unchecked" />
+                      <option name="stepId" value="287059" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="src/Task.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="hints">
+                                        <list />
+                                      </option>
+                                      <option name="index" value="0" />
+                                      <option name="initialState">
+                                        <MyInitialState>
+                                          <option name="length" value="29" />
+                                          <option name="offset" value="892" />
+                                        </MyInitialState>
+                                      </option>
+                                      <option name="initializedFromDependency" value="false" />
+                                      <option name="length" value="29" />
+                                      <option name="offset" value="892" />
+                                      <option name="placeholderDependency" />
+                                      <option name="placeholderText" value="//To Do: Implement Quick Sort" />
+                                      <option name="possibleAnswer" value="  if (low &lt; high) {&#10;            double pivot = data.get(high);&#10;            int i = (low - 1); // index of smaller element&#10;            for (int j = low; j &lt; high; j++) {&#10;                // If current element is smaller than or&#10;                // equal to pivot&#10;                if (data.get(j) &lt;= pivot) {&#10;                    i++;&#10;                    swapElements(data, i, j);&#10;                }&#10;            }&#10;&#10;            // swap arr[i+1] and arr[high] (or pivot)&#10;            swapElements(data, i + 1, high);&#10;&#10;            i = i + 1;&#10;&#10;&#10;            // Recursively sort elements before&#10;            // partition and after partition&#10;            quickSortHelper(data, low, i - 1);&#10;            quickSortHelper(data, i + 1, high);&#10;        }" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Unchecked" />
+                                      <option name="studentAnswer" />
+                                      <option name="useLength" value="true" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/Task.java" />
+                                <option name="text" value="import java.lang.reflect.Array;&#10;import java.util.ArrayList;&#10;&#10;public class Task {&#10;&#10;    static ArrayList data = new ArrayList();&#10;&#10;    public static void main(String[] args)&#10;    {&#10;        createData();&#10;&#10;        quickSort(data);&#10;&#10;        printData();&#10;    }&#10;&#10;&#10;    public static void createData()&#10;    {&#10;        for(int i = 0; i &lt; 10; i++)    //add 10 random doubles&#10;        { data.add(Math.floor(Math.random()*100)/1.0); }&#10;    }&#10;&#10;    public static void printData()&#10;    {&#10;        for(int i = 0; i &lt; data.size(); i++)   //print out elements&#10;        { System.out.print(data.get(i).toString().substring(0,data.get(i).toString().indexOf(&quot;.&quot;)) + &quot; &quot;); }&#10;    }&#10;&#10;    public static ArrayList&lt;Double&gt; quickSort(ArrayList&lt;Double&gt; data)&#10;    {&#10;        quickSortHelper(data, 0, data.size()-1);&#10;        return data;&#10;    }&#10;&#10;    public static void quickSortHelper(ArrayList&lt;Double&gt; data, int low, int high) {&#10;      //To Do: Implement Quick Sort&#10;    }&#10;&#10;    //Helper method that swaps two elements in an array&#10;    //@param data: ArrayList where elements are&#10;    //@param index1 and index2: indeces of the two elements to be swapped&#10;    public static void swapElements(ArrayList&lt;Double&gt; data, int index1, int index2)&#10;    {&#10;        double temp = data.get(index1);&#10;        data.set(index1, data.get(index2));&#10;        data.set(index2, temp);&#10;    }&#10;&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="test/Test.java" value="import org.junit.Assert;&#10;&#10;import java.util.ArrayList;&#10;&#10;public class Test {&#10;&#10;    @org.junit.Test public void testSorting() {&#10;&#10;        //make testing data&#10;        ArrayList&lt;Double&gt; testData = new ArrayList&lt;&gt;();&#10;        for(int i = 0; i &lt; 100; i++)&#10;        { testData.add(Math.random()); }&#10;&#10;        //make sure resulting array is sorted&#10;        ArrayList&lt;Double&gt; sorted = Task.quickSort((ArrayList&lt;Double&gt;) testData.clone());&#10;&#10;        for(int i = 1; i &lt; sorted.size(); i++)&#10;        {&#10;            if(sorted.get(i-1) &gt; sorted.get(i))&#10;            {   Assert.fail(&quot;Quick Sort Failed&quot;);}&#10;        }&#10;&#10;&#10;    }&#10;&#10;}&#10;" />
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1519757320000" />
+                    </EduTask>
+                  </list>
+                </option>
+                <option name="unitId" value="52313" />
+              </Lesson>
+            </list>
+          </option>
+        </RemoteCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>

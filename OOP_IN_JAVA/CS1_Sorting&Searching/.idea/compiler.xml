@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Sorting-Bubble_Sort_main" target="1.8" />
+      <module name="Sorting-Bubble_Sort_test" target="1.8" />
+      <module name="Sorting-Insertion_Sort_main" target="1.8" />
+      <module name="Sorting-Insertion_Sort_test" target="1.8" />
+      <module name="Sorting-Merge_Sort_main" target="1.8" />
+      <module name="Sorting-Merge_Sort_test" target="1.8" />
+      <module name="Sorting-Quick_Sort_main" target="1.8" />
+      <module name="Sorting-Quick_Sort_test" target="1.8" />
+      <module name="Sorting-Selection_Sort_main" target="1.8" />
+      <module name="Sorting-Selection_Sort_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

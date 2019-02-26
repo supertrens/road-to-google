@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da7919f3-08f5-4ceb-92b9-4d689b1c540f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CS1_Sorting&amp;Searching/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS1_Sorting&amp;Searching/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS1_Sorting&amp;Searching/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UCSDUnfoldingMaps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../playground/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../playground/src/readInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../coreJava/simpleLocation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../coreJava/simpleLocation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/2.5_week.atom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/LifeExpectancyWorldBank.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/LifeExpectancyWorldBankModule3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/airports.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/blankDark-1-3.mbtiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/blankLight-1-3.mbtiles" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/city-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/countries.geo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/palmTrees.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/quiz1.atom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/quiz2.atom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/routes.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/sortAndPrint.test2.out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/test1.atom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/test1.out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/test2.atom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/test2.out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-armv6hf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-i586.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-macosx-universal.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-windows-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-windows-i586.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-armv6hf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-i586.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-macosx-universal.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-windows-amd64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-windows-i586.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/json4processing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/libTUIO.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/log4j-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/sqlite-jdbc-3.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/unfolding.0.9.7-uscd.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/HelloUCSDWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/OfflineMapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/Airport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/EarthquakeCityMapDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/LifeExpectancy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/LocationTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/MyDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/MyPApplet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/SearchAndSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/SimpleLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module1/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module3/EarthquakeCityMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/CityMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/EarthquakeCityMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/EarthquakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/LandQuakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/OceanQuakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/CityMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/CommonMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/EarthquakeCityMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/EarthquakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/LandQuakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/OceanQuakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/AirportMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/AirportMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/CityMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/CommonMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/EarthquakeCityMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/EarthquakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/LandQuakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/LifeExpectancy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/OceanQuakeMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/parsing/ParseFeed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../playground/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../playground/Main.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz/build/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz/out/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (3)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (3)/build/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Quiz (3)/out/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Theory (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Theory (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Boolean/Theory (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Character/Quiz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Character/Quiz/build/" />
+    <ignored path="$PROJECT_DIR$/Character/Quiz/out/" />
+    <ignored path="$PROJECT_DIR$/Character/Quiz (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Character/Quiz (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Character/Quiz (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Character/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Character/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Character/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming/build/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming/out/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (3)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (3)/build/" />
+    <ignored path="$PROJECT_DIR$/Comments/Programming (3)/out/" />
+    <ignored path="$PROJECT_DIR$/Comments/Quiz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Comments/Quiz/build/" />
+    <ignored path="$PROJECT_DIR$/Comments/Quiz/out/" />
+    <ignored path="$PROJECT_DIR$/Comments/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Comments/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Comments/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming/build/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming/out/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (3)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (3)/build/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Programming (3)/out/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Quiz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Quiz/build/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Quiz/out/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Floating-point/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (10)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (10)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (10)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (3)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (3)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (3)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (4)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (4)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (4)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (5)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (5)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (5)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (6)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (6)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (6)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (7)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (7)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (7)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (8)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (8)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (8)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (9)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (9)/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Programming (9)/out/" />
+    <ignored path="$PROJECT_DIR$/Integer/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Integer/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Integer/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz/build/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz/out/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (3)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (3)/build/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (3)/out/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (4)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (4)/build/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (4)/out/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (5)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (5)/build/" />
+    <ignored path="$PROJECT_DIR$/Intro/Quiz (5)/out/" />
+    <ignored path="$PROJECT_DIR$/Intro/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Intro/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Intro/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Intro/Theory (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Intro/Theory (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Intro/Theory (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (3)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (3)/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Programming (3)/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Quiz (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Main method/Theory (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Main method/Theory (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Main method/Theory (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming/build/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming/out/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (3)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (3)/build/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (3)/out/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (4)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (4)/build/" />
+    <ignored path="$PROJECT_DIR$/Math/Programming (4)/out/" />
+    <ignored path="$PROJECT_DIR$/Math/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Math/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Math/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Math/Theory (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Math/Theory (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Math/Theory (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Type Casting/Quiz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Type Casting/Quiz/build/" />
+    <ignored path="$PROJECT_DIR$/Type Casting/Quiz/out/" />
+    <ignored path="$PROJECT_DIR$/Type Casting/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Type Casting/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Type Casting/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <ignored path="$PROJECT_DIR$/util/out/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Programming/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Programming/build/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Programming/out/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Quiz/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Quiz/build/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Quiz/out/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Quiz (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Quiz (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Quiz (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory/build/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory/out/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (1)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (1)/build/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (1)/out/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (2)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (2)/build/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (2)/out/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (3)/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (3)/build/" />
+    <ignored path="$PROJECT_DIR$/Variables and Types/Theory (3)/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Intro/Quiz (2)/src/Task.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState />
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Math/Theory/src/Task.java">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="119">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java._Introduction" type="a264ea2a:RootNode" />
+              <item name="Java. Introduction" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Java._Introduction" type="a264ea2a:RootNode" />
+              <item name="Java. Introduction" type="ed842865:CourseNode" />
+              <item name="Intro" type="d53b8fed:LessonNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da7919f3-08f5-4ceb-92b9-4d689b1c540f" name="Default Changelist" comment="" />
+      <created>1550808706224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550808706224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="974" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Task" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Intro/Theory/src/Task.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro/Theory (1)/src/Task.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro/Quiz/src/Task.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro/Quiz (1)/src/Task.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro/Quiz (2)/src/Task.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/Theory/src/Task.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
