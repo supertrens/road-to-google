@@ -35,7 +35,7 @@ public class HelloWorld extends PApplet
 	}
 
 	public void setup() {
-		size(800, 600, P2D);  // Set up the Applet window to be 800x600
+		size(850, 600, P2D);  // Set up the Applet window to be 800x600
 		                      // The OPENGL argument indicates to use the 
 		                      // Processing library's 2D drawing
 		                      // You'll learn more about processing in Module 3
@@ -44,10 +44,10 @@ public class HelloWorld extends PApplet
 		this.background(86, 98, 112);
 		
 		// Select a map provider
-		AbstractMapProvider provider = new Microsoft.AerialProvider();
+		AbstractMapProvider provider = new Microsoft.RoadProvider();
 
 		// Set a zoom level
-		int zoomLevel = 7;
+		int zoomLevel = 10;
 		
 		if (offline) {
 			provider = new MBTilesMapProvider(mbTilesString);
@@ -57,8 +57,7 @@ public class HelloWorld extends PApplet
 		
 
 		map1 = new UnfoldingMap(this, 50, 50, 350, 500, provider);
-		map2 = new UnfoldingMap(this, 400, 50, 350, 500, provider);
-
+		map2 = new UnfoldingMap(this, 450, 50, 350, 500, provider);
 
 		// 32.9 (latitude) and -117.2 (longitude)
 		map1.zoomAndPanTo(zoomLevel, new Location(32.9f, -117.2f));

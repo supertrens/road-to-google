@@ -2,91 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b773be59-73d4-4e2b-a209-394bfb9ca78a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CS1_Sorting&amp;Searching/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS1_Sorting&amp;Searching/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS1_Sorting&amp;Searching/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../playground/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../playground/src/readInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../coreJava/simpleLocation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../coreJava/simpleLocation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/2.5_week.atom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/LifeExpectancyWorldBank.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/LifeExpectancyWorldBankModule3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/airports.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/blankDark-1-3.mbtiles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/blankLight-1-3.mbtiles" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/city-data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/countries.geo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/palmTrees.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/quiz1.atom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/quiz2.atom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/routes.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/sortAndPrint.test2.out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/test1.atom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/test1.out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/test2.atom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/data/test2.out.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/core.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-amd64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-armv6hf.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-i586.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-macosx-universal.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-windows-amd64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt-natives-windows-i586.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/gluegen-rt.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-amd64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-armv6hf.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-i586.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-macosx-universal.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-windows-amd64.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all-natives-windows-i586.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/jogl-all.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/json4processing.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/libTUIO.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/log4j-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/sqlite-jdbc-3.7.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/lib/unfolding.0.9.7-uscd.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/HelloUCSDWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/OfflineMapApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/Airport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/EarthquakeCityMapDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/LifeExpectancy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/LocationTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/MyDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/MyPApplet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/SearchAndSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/SimpleLocation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/demos/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module1/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module3/EarthquakeCityMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/CityMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/EarthquakeCityMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/EarthquakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/LandQuakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module4/OceanQuakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/CityMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/CommonMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/EarthquakeCityMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/EarthquakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/LandQuakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module5/OceanQuakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/AirportMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/AirportMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/CityMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/CommonMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/EarthquakeCityMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/EarthquakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/LandQuakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/LifeExpectancy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/module6/OceanQuakeMarker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../object-oriented-programming-in-java/UCSDUnfoldingMaps/src/parsing/ParseFeed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../playground/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../playground/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/PAppletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UCSDUnfoldingMaps/module1/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UCSDUnfoldingMaps/module1/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UCSDUnfoldingMaps/module3/EarthquakeCityMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UCSDUnfoldingMaps/module3/EarthquakeCityMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module3/EarthquakeCityMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module3/EarthquakeCityMap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,21 +18,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/UCSDUnfoldingMaps$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1551212046642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/UCSDUnfoldingMaps$PAppletTest.ic" NAME="PAppletTest Coverage Results" MODIFIED="1551242412598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>playground.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UCSDUnfoldingMaps$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1551236822057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>module1.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/UCSDUnfoldingMaps$EarthquakeCityMap.ic" NAME="EarthquakeCityMap Coverage Results" MODIFIED="1551237123017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>module3.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="276" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/module1/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="69" column="50" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="50" />
+            <state relative-caret-position="304">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1424#1425#0" expanded="true" />
-                <element signature="e#1479#1480#0" expanded="true" />
+                <element signature="method#setup#0;class#HelloWorld#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/playground/PAppletTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+              <folding>
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/module3/EarthquakeCityMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,9 +73,17 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>PApplet</find>
+      <find>provi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -130,6 +93,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/module1/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/module3/EarthquakeCityMap.java" />
+        <option value="$PROJECT_DIR$/src/playground/Test.java" />
+        <option value="$PROJECT_DIR$/src/playground/PAppletTest.java" />
       </list>
     </option>
   </component>
@@ -143,7 +109,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,18 +128,22 @@
               <item name="UCSDUnfoldingMaps" type="b2602c69:ProjectViewProjectNode" />
               <item name="UCSDUnfoldingMaps" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UCSDUnfoldingMaps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UCSDUnfoldingMaps" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551212324581" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551282191963" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
@@ -187,7 +159,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PAppletTest">
+    <configuration name="EarthquakeCityMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module3.EarthquakeCityMap" />
+      <module name="UCSDUnfoldingMaps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="module1.HelloWorld" />
       <module name="UCSDUnfoldingMaps" />
@@ -201,9 +186,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PAppletTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.PAppletTest" />
+      <module name="UCSDUnfoldingMaps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.Test" />
+      <module name="UCSDUnfoldingMaps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PAppletTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.EarthquakeCityMap" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +238,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -232,7 +246,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -243,7 +257,6 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -252,17 +265,82 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.32967034" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/module3/EarthquakeCityMap.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/LocationTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demos/MyPApplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="2" column="17" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/module1/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="69" column="50" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="50" />
+        <state relative-caret-position="304">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-            <element signature="e#1479#1480#0" expanded="true" />
+            <element signature="method#setup#0;class#HelloWorld#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module3/EarthquakeCityMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/playground/PAppletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
           </folding>
         </state>
       </provider>
