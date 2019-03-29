@@ -1,5 +1,10 @@
 package quickfind;
 
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.List;
+
 public class Main {
 
   public static void main(String[] args) {
@@ -17,6 +22,8 @@ public class Main {
     qf.union(5,0);
     qf.union(7,2);
     qf.union(6,1);
+
+
 
 
 
