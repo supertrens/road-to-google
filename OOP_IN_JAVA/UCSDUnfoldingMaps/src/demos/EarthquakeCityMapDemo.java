@@ -26,10 +26,14 @@ import parsing.ParseFeed;
 /** EarthquakeCityMapDemo
  * An application with an interactive map displaying earthquake data.
  * Author: UC San Diego Intermediate Software Development MOOC team
- * @author Your name here
+ * @author Pitrens studio
  * Date: July 17, 2015
  * */
 public class EarthquakeCityMapDemo extends PApplet {
+	static public void main(String args[]) {
+		PApplet.main(new String[]{"demos.EarthquakeCityMapDemo"});
+	}
+
 
 	// You can ignore this.  It's to keep eclipse from generating a warning.
 	//private static final long serialVersionUID = 1L;
@@ -56,8 +60,8 @@ public class EarthquakeCityMapDemo extends PApplet {
 		size(950, 600, OPENGL);
 
 		// Assume online
-		map = new UnfoldingMap(this, 200, 50, 700, 500, new Google.GoogleMapProvider());
-//		map = new UnfoldingMap(this, 200, 50, 700, 500, new OpenStreetMap.OpenStreetMapProvider() );
+//		map = new UnfoldingMap(this, 200, 50, 700, 500, new Google.GoogleMapProvider());
+		map = new UnfoldingMap(this, 200, 50, 700, 500, new OpenStreetMap.OpenStreetMapProvider() );
 //	    map = new UnfoldingMap(this, 200, 50, 650, 600, new MBTilesMapProvider(mbTilesString));
 
 	    map.zoomToLevel(1);
@@ -78,14 +82,14 @@ public class EarthquakeCityMapDemo extends PApplet {
 	    //STAGE 2: Features with rich data, then Marker
 	    
 	    // First create Feature for details of Valdivia earthquake
-//	    Location valLoc = new Location(-38.14f,-73.03f);
-//	    PointFeature valEq = new PointFeature(valLoc);
-//	    valEq.addProperty("title", "Valdivia, Chile");
-//	    valEq.addProperty("magnitude", "9.5");
-//	    valEq.addProperty("date", "May 22, 1960");
-//	    
-//	    Marker valMk = new SimplePointMarker(valLoc, valEq.getProperties());
-//	    map.addMarker(valMk);
+	    Location valLoc = new Location(-38.14f,-73.03f);
+	    PointFeature valEq = new PointFeature(valLoc);
+	    valEq.addProperty("title", "Valdivia, Chile");
+	    valEq.addProperty("magnitude", "9.5");
+	    valEq.addProperty("date", "May 22, 1960");
+
+	    Marker valMk = new SimplePointMarker(valLoc, valEq.getProperties());
+	    map.addMarker(valMk);
 	    
 	   //STAGE 3: List of Features, then list of Markers (ADTs)
 	   // cf. http://earthquake.usgs.gov/earthquakes/world/10_largest_world.php
@@ -96,11 +100,11 @@ public class EarthquakeCityMapDemo extends PApplet {
 	    valdiviaEq.addProperty("magnitude", "9.5");
 	    valdiviaEq.addProperty("date", "March 22, 1960");
 	    valdiviaEq.addProperty("year", 1960);
-	    
+
 	    PointFeature alaskaEq = new PointFeature(new Location(61.02f,-147.65f));
 	    alaskaEq.addProperty("title", "1964 Great Alaska Earthquake");
 	    alaskaEq.addProperty("magnitude", "9.2");
-	    alaskaEq.addProperty("date", "March 28, 1964"); 
+	    alaskaEq.addProperty("date", "March 28, 1964");
 	    alaskaEq.addProperty("year", 1964);
 
 	    PointFeature sumatraEq = new PointFeature(new Location(3.30f,95.78f));

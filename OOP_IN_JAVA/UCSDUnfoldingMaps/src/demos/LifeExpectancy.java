@@ -38,13 +38,13 @@ public class LifeExpectancy extends PApplet {
 		// Load lifeExpectancy data
 		lifeExpByCountry = loadLifeExpectancyFromCSV("LifeExpectancyWorldBankModule3.csv");
 		println("Loaded " + lifeExpByCountry.size() + " data entries");
-		
+
 
 		// Load country polygons and adds them as markers
 		countries = GeoJSONReader.loadData(this, "countries.geo.json");
 		countryMarkers = MapUtils.createSimpleMarkers(countries);
 		map.addMarkers(countryMarkers);
-		
+
 		// Country markers are shaded according to life expectancy (only once)
 		shadeCountries();
 	}
